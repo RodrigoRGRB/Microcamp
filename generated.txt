@@ -1,0 +1,19 @@
+{
+  "profissao": {
+    "jornalista": [
+      "escritor",
+      "legal",
+      "fotografo"
+    ],
+    "programador": [
+      "focado",
+      "exatas",
+      "articulado"
+    ],
+    "dentista":[
+     "paciente",
+     "dedicado(a)",
+     "habilidade com pessoas"
+    ]
+  }
+}
