@@ -164,10 +164,7 @@ public class Model implements Subject{
 			observer.update(chatId, profissoes);
 		}
 	}
-	
-	public void buscarMapa(){
-		System.out.println("Estou buscando o mapa");
-	}
+
 	
 	
 	/*
